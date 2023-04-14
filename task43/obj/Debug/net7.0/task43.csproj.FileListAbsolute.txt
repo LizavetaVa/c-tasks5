@@ -1,0 +1,15 @@
+/Users/new/Desktop/c#test5/task43/bin/Debug/net7.0/task43
+/Users/new/Desktop/c#test5/task43/bin/Debug/net7.0/task43.deps.json
+/Users/new/Desktop/c#test5/task43/bin/Debug/net7.0/task43.runtimeconfig.json
+/Users/new/Desktop/c#test5/task43/bin/Debug/net7.0/task43.dll
+/Users/new/Desktop/c#test5/task43/bin/Debug/net7.0/task43.pdb
+/Users/new/Desktop/c#test5/task43/obj/Debug/net7.0/task43.csproj.AssemblyReference.cache
+/Users/new/Desktop/c#test5/task43/obj/Debug/net7.0/task43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/new/Desktop/c#test5/task43/obj/Debug/net7.0/task43.AssemblyInfoInputs.cache
+/Users/new/Desktop/c#test5/task43/obj/Debug/net7.0/task43.AssemblyInfo.cs
+/Users/new/Desktop/c#test5/task43/obj/Debug/net7.0/task43.csproj.CoreCompileInputs.cache
+/Users/new/Desktop/c#test5/task43/obj/Debug/net7.0/task43.dll
+/Users/new/Desktop/c#test5/task43/obj/Debug/net7.0/refint/task43.dll
+/Users/new/Desktop/c#test5/task43/obj/Debug/net7.0/task43.pdb
+/Users/new/Desktop/c#test5/task43/obj/Debug/net7.0/task43.genruntimeconfig.cache
+/Users/new/Desktop/c#test5/task43/obj/Debug/net7.0/ref/task43.dll
